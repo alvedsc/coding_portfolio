@@ -1,6 +1,6 @@
 # Coding Portfolio
 
-Hi, I'm Alvaro! As a GIS professional and Data Scientist I realized my job would be much faster and efficient if I could automate repetitive tasks for me and my team. In this repo, you will find some of the scripts that I used to automate tasks in GIS, Data Analysis, and other knowledge areas. 
+Hi, I'm Alvaro! As a GIS professional and Data Scientist, my team becomes much faster and more efficient when I automate repetitive tasks. In this repo, you will find some of the scripts that I used to automate tasks in GIS, Data Analysis, and other knowledge areas. 
 I hold a Bachelor Degree in Agricultural Engineering and a Master of Science (M.S.) in Organizational Leadership with a concentration in Project Management. I have 9 years of experience in the field of geoscience, where I held roles such as GIS Analyst, Research Associate, Professor, Lecturer, Data Analyst, among others. 
 
 I created this Repo to showcase my GIS data analyst coding skills, as well as other coding samples for that I deem relevant enough to showcase. 
