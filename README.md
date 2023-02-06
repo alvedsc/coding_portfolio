@@ -28,7 +28,7 @@ Here's a list of coding samples to assist my GIS practice
 #### Geonames data compilator
 
 Purpose: This script downloads all data from the [GeoNames data dump](http://download.geonames.org/export/dump/), extracts the information, converts 
-it into the shapefile format and stores it in a folder. 
+it into the shapefile format and stores it in different folders corresponding to each country in the data dump. 
 
 Access the [Geonames data compilator script by clicking here](https://github.com/alvedsc/coding_portfolio/blob/main/codes/geonames_compilator.py)
 
