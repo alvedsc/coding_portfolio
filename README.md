@@ -12,8 +12,8 @@ I created this Repo to showcase my GIS data analyst coding skills, as well as ot
   - Geonames data compilator
 - [Javascript](#javascript)
   - [Obsidian](#obsidian)
-    - Highlight of the day
-    - Day planner
+    - [Highlight of the day](#highlight-of-the-day)
+    - [Day planner](#day-planner)
 
 ## Javascript
 
