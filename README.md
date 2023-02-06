@@ -44,6 +44,10 @@ Here's a list of my .js coding samples for the purpose of improving my personal 
 
 Purpose: The [Kindle Highlights plug-in](https://github.com/hadynz/obsidian-kindle-plugin) retrieves all highlights from a given Amazon account and stores them into a file in a given Obsidian Vault. The *Highlight of the day* script, extracts a random highlight from a random book and places it the daily note. The note's title (a date in the format YYYY-MM-DD) is used as a seed to ensure the random highlight stays constant throughout the day, regardless of refreshing or the device being used. A sine function is used since Obsidian does not allow the use of the "random-seed" Javascript library.
 
+![Screenshot 2023-02-06 at 12 58 19 PM](https://user-images.githubusercontent.com/8411602/217086195-dea1a732-3981-4023-83ae-c9765d710815.png)
+![Screenshot 2023-02-06 at 1 02 35 PM](https://user-images.githubusercontent.com/8411602/217086257-ebab004c-3bcd-41de-a611-a2bf4b666076.png)
+
+
 Access [the Highlight of the Day script by clicking here](https://github.com/alvedsc/coding_portfolio/blob/main/codes/highlight_of_the_day.js)
 
 #### Day Planner
