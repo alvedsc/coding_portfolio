@@ -31,4 +31,4 @@ Access [the Highlight of the Day script by clicking here](https://github.com/alv
 
 Purpose: This script retrieves all tasks from all notes in the Obsidian Vault and organize them by their completion date, for every new daily note. Using this script, all daily notes will have a Day Planner section with tasks: 1. Overdue, 2. Today, 3. Upcoming, 4. Undated. It will also add the the "Today" list any tasks that have the #habit or #habit/weekly tags in the current note, or the weekly note. It will also add a link to the note where the task was originally written. This way, each task can easily be edited or marked as Complete using the Obsidian's [Hover Editor plug-in](https://github.com/nothingislost/obsidian-hover-editor)
 
-Access [the Day Planner script by clicking here]()
+Access [the Day Planner script by clicking here](https://github.com/alvedsc/coding_portfolio/blob/main/codes/day_planner.js)
