@@ -15,6 +15,21 @@ I created this Repo to showcase my GIS data analyst coding skills, as well as ot
   - [Obsidian](#obsidian)
     - [Highlight of the day](#highlight-of-the-day)
     - [Day planner](#day-planner)
+    
+## Python
+
+Here's a list of my .py scripts
+
+### GIS
+
+Here's a list of coding samples to assist my GIS practice 
+
+#### Geonames data compilator
+
+Purpose: This script downloads all data from the [GeoNames data dump](http://download.geonames.org/export/dump/), extracts the information, converts 
+it into the shapefile format and stores it in a folder. 
+
+Access the [Geonames data compilator script by clicking here](https://github.com/alvedsc/coding_portfolio/blob/main/codes/geonames_compilator.py)
 
 ## Javascript
 
@@ -22,7 +37,7 @@ Here's a list of my Javascript coding samples
 
 ### Obsidian
 
-Here's a list of my js coding samples for the purpose of improving my personal experience of the Obsidian app
+Here's a list of my .js coding samples for the purpose of improving my personal experience of the Obsidian app
 
 #### Highlight of the day
 
