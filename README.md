@@ -10,8 +10,8 @@ I created this Repo to showcase my GIS data analyst coding skills, as well as ot
   - Polyline statistics from raster
 - Python
   - Geonames data compilator
-- Javascript
-  - Obsidian
+- [Javascript](# Javascript)
+  - [Obsidian](# Obsidian)
     - Highlight of the day
     - Day planner
 
