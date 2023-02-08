@@ -7,11 +7,10 @@ I created this Repo to showcase my GIS data analyst coding skills, as well as ot
 
 ## Index
 
-- R
-  - Polyline statistics from raster
 - [Python](#python)
   - [GIS](#gis)
     - [Geonames data compilator](#geonames-data-compilator)
+    - [Polyline statistics from raster](#polyline-statistics-from-raster)
 - [Javascript](#javascript)
   - [Obsidian](#obsidian)
     - [Highlight of the day](#highlight-of-the-day)
@@ -24,6 +23,12 @@ Here's a list of my .py scripts
 ### GIS
 
 Here's a list of coding samples to assist my GIS practice 
+
+#### Polyline statistics from raster
+
+Purpose: The following code takes an indefinite number of rasters and multiplies them. These rasters correspond to probability distributions (Numbers between 0 and 1). It also takes a line shapefile. This corresponds to a route of a vehicle or person throughout the area delimited by the rasters. It graphs the values of the raster throughout the line. This is relevant to determine which parts of a route are more dangerous than others, if the probability rasters correspond to individual probabilities of a negative event to occur, like homicide probability or drug dealing probability.
+
+Access the [Polyline statistics from raster script by clicking here](https://github.com/alvedsc/coding_portfolio/blob/main/codes/line_graph.py)
 
 #### Geonames data compilator
 
