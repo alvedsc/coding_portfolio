@@ -28,7 +28,7 @@ Here's a list of coding samples to assist my GIS practice
 
 Purpose: The following code computes a graph of values from a raster along a shapefile polyline. It takes an indefinite number of input rasters and multiplies them. It also takes a line shapefile. This may correspond to a vehicle's or person's route inside the area delimited by the rasters. It graphs the values of the raster throughout the route. A sample case would be to determine which parts of a route are the most dangerous, based on input  probability rasters of certain negative events, like homicide probability or drug dealing probability.
 
-<img width="1162" alt="image" src="https://user-images.githubusercontent.com/8411602/217463904-ff72bdb2-327f-4ccc-a716-15c97c6935e0.png">
+<img width="1334" alt="image" src="https://user-images.githubusercontent.com/8411602/217465648-ceef9969-4d3a-4f78-8435-00a733750fdf.png">
 
 Access the [Polyline statistics from raster script by clicking here](https://github.com/alvedsc/coding_portfolio/blob/main/codes/line_graph.py)
 
@@ -51,7 +51,7 @@ Here's a list of my .js coding samples for the purpose of improving my personal 
 
 Purpose: The [Kindle Highlights plug-in](https://github.com/hadynz/obsidian-kindle-plugin) retrieves all highlights from a given Amazon account and stores them into a file in a given Obsidian Vault. The *Highlight of the day* script, extracts a random highlight from a random book and places it the daily note. The note's title (a date in the format YYYY-MM-DD) is used as a seed to ensure the random highlight stays constant throughout the day, regardless of refreshing or the device being used. A sine function is used since Obsidian does not allow the use of the "random-seed" Javascript library.
 
-![Untitled design](https://user-images.githubusercontent.com/8411602/217460311-4abbc3a9-9578-4a66-a640-db131dff0324.png)
+<img width="1332" alt="image" src="https://user-images.githubusercontent.com/8411602/217465987-a4ffd551-6ebc-4764-b794-032b996b2ec6.png">
 
 Access [the Highlight of the Day script by clicking here](https://github.com/alvedsc/coding_portfolio/blob/main/codes/highlight_of_the_day.js)
 
