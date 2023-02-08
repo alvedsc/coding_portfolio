@@ -1,6 +1,6 @@
 # Coding Portfolio
 
-Hi, I'm Alvaro! As a GIS professional and Data Scientist, my team becomes much faster and more efficient when I automate repetitive tasks. In this repo, you will find some of the scripts that I used to automate tasks in GIS, Data Analysis, and other knowledge areas. 
+Hi, I'm Alvaro! As a GIS professional and Data Scientist, I've found my team can become much faster and more efficient when I automate all repetitive tasks. In this repo, you will find some of the scripts that I used to automate tasks in GIS, Data Analysis, and other knowledge areas. 
 I hold a Bachelor Degree in Agricultural Engineering and a Master of Science in Organizational Leadership with a concentration in Project Management. I have 9 years of experience in geoscience. I held roles such as GIS Analyst, Research Associate, Professor, Lecturer, Data Analyst, among others. 
 
 I created this Repo to showcase my GIS data analyst coding skills, as well as other coding samples for that I deem relevant enough to showcase. 
@@ -26,7 +26,7 @@ Here's a list of coding samples to assist my GIS practice
 
 #### Polyline statistics from raster
 
-Purpose: The following code takes an indefinite number of rasters and multiplies them. These rasters correspond to probability distributions (Numbers between 0 and 1). It also takes a line shapefile. This corresponds to a route of a vehicle or person throughout the area delimited by the rasters. It graphs the values of the raster throughout the line. A sample case would be to determine which parts of a route are more dangerous than others, if the  rasters correspond to individual probabilities of a negative event to occur, like homicide probability or drug dealing probability.
+Purpose: The following code computes a graph of values from a raster along a shapefile polyline. It takes an indefinite number of input rasters and multiplies them. It also takes a line shapefile. This may correspond to a vehicle's or person's route inside the area delimited by the rasters. It graphs the values of the raster throughout the route. A sample case would be to determine which parts of a route are the most dangerous, based on input  probability rasters of certain negative events, like homicide probability or drug dealing probability.
 
 <img width="1162" alt="image" src="https://user-images.githubusercontent.com/8411602/217463904-ff72bdb2-327f-4ccc-a716-15c97c6935e0.png">
 
