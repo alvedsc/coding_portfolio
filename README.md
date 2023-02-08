@@ -28,6 +28,8 @@ Here's a list of coding samples to assist my GIS practice
 
 Purpose: The following code takes an indefinite number of rasters and multiplies them. These rasters correspond to probability distributions (Numbers between 0 and 1). It also takes a line shapefile. This corresponds to a route of a vehicle or person throughout the area delimited by the rasters. It graphs the values of the raster throughout the line. This is relevant to determine which parts of a route are more dangerous than others, if the probability rasters correspond to individual probabilities of a negative event to occur, like homicide probability or drug dealing probability.
 
+<img width="1162" alt="image" src="https://user-images.githubusercontent.com/8411602/217463904-ff72bdb2-327f-4ccc-a716-15c97c6935e0.png">
+
 Access the [Polyline statistics from raster script by clicking here](https://github.com/alvedsc/coding_portfolio/blob/main/codes/line_graph.py)
 
 #### Geonames data compilator
