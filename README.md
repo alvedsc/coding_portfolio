@@ -9,8 +9,8 @@ I created this Repo to showcase my GIS data analyst coding skills, as well as ot
 
 - [Python](#python)
   - [GIS](#gis)
-    - [Geonames data compilator](#geonames-data-compilator)
     - [Polyline statistics from raster](#polyline-statistics-from-raster)
+    - [Geonames data compilator](#geonames-data-compilator)
 - [Javascript](#javascript)
   - [Obsidian](#obsidian)
     - [Highlight of the day](#highlight-of-the-day)
