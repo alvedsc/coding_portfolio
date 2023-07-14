@@ -1,6 +1,6 @@
 # Coding Portfolio
 
-Hi, I'm Alvaro! As a Project Manager and Data Scientist. I've found my team can become much faster and more efficient when I automate all repetitive tasks. In this repo, you will find some of the scripts that I used to automate tasks in GIS, Data Analysis, and other knowledge areas. 
+Hi, I'm Alvaro! As a Project Manager and Data Scientist, I've found my team can become much faster and more efficient when I automate all repetitive tasks. In this repo, you will find some of the scripts that I used to automate tasks in GIS, Data Analysis, and other knowledge areas. 
 I am a PMI Certified Project Management Professional, Certified Scrum Master, and Atlassian Certified Jira Project Administrator. I hold a Bachelor Degree in Agricultural Engineering and a Master of Science in Organizational Leadership with a concentration in Project Management. I have 9 years of experience in geographic data science. I held roles such as GIS Analyst, Research Associate, Professor, Lecturer, Data Analyst, among others. 
 
 I created this Repo to showcase my GIS data analyst coding skills, as well as other coding samples for that I deem relevant enough to showcase. 
